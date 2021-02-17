@@ -22,4 +22,18 @@
 - ### Part 2
   1. http://wiki.ros.org/kinetic/Installation/Ubuntu
   2. `sudo apt-get install ros-kinetic-desktop-full`
-  3. 
+  3. `sudo apt-get install python-rosinstall`  
+  4. `sudo apt-get install ros-kinetic-rqt-*`  
+  5. `sudo rosdep init` -> 초기화
+  6. `rosdep update` 
+
+- ### Part 3
+  1. `gedit ~/.bashrc` 입력 (1.5 Environment setup)  
+  -> echo "source /opt/ros/kinetic/setup.bash" >> ~/.bashrc
+source ~/.bashrc  
+  2. `source /opt/ros/kinetic/setup.bash` 마지막에 설정 추가
+  3. 이외의 설정들 (출처: ROBOTIS OpenSourceTeam ROS강의 Chapter3)
+  <p align="center"><img src="https://user-images.githubusercontent.com/72693388/108215795-0f7e9b80-7175-11eb-886e-74784c013b50.png" width="500px"></p>  
+<p align="center"> 환경 설정 </p>  
+
+ 
