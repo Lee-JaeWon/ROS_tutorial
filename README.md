@@ -35,5 +35,6 @@ source ~/.bashrc
   3. 이외의 설정들 (출처: ROBOTIS OpenSourceTeam ROS강의 Chapter3)
   <p align="center"><img src="https://user-images.githubusercontent.com/72693388/108215795-0f7e9b80-7175-11eb-886e-74784c013b50.png" width="500px"></p>  
 <p align="center"> 환경 설정 </p>  
-
+  4. 새 터미널을 열고 roscore 실행 여부 확인  
+  5. 
  
