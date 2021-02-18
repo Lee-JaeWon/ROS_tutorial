@@ -37,3 +37,14 @@ source ~/.bashrc
   <p align="center"><img src="https://user-images.githubusercontent.com/72693388/108215795-0f7e9b80-7175-11eb-886e-74784c013b50.png" width="500px"></p>  
 <p align="center"> 환경 설정 </p>    
  
+- ## Qt Creator Plug-in 설치
+  1. https://ros-qtc-plugin.readthedocs.io/en/latest/_source/How-to-Install-Users.html  
+  2. 16.04 Offline Installer 설치  
+  3. 다운 파일 실행 전 관리자 권한을 준 후 설치(우클릭-Properties-Permissions-Allow Execute)
+  4. 다음과 같이 ROS_WorkSpace 생성(New Project - other - ROS WORKSPACE)
+  5. <p align="center"><img src="https://user-images.githubusercontent.com/72693388/108312286-ce7c9a80-71f9-11eb-8270-d508dedda491.png" width="500px"></p>  
+<p align="center"> ws 생성 </p>
+-  Workspace path는 바탕화면 -> catkin_ws 생성  
+
+
+
