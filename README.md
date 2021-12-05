@@ -16,7 +16,7 @@
   2. `sudo apt-get install chrony`  
   3. `sudo apt-get install ntpdate`  
   4. `sudo ntpdate ntp.ubuntu.com` -> 서버시간 동기화  
-  5. http://wiki.ros.org/kinetic/Installation/Ubuntu의 1.4 Installation의 첫번째까지 진행 후  
+  5. http://wiki.ros.org/kinetic/Installation/Ubuntu 의 1.4 Installation의 첫번째까지 진행 후  
   6. `sudo apt-get upgrade` 진행  
 
 - ### Part 2
