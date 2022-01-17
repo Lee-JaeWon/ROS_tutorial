@@ -1,7 +1,17 @@
 # ROS_tutorial
 
+## Ubuntu 18.04.6 LTS & ROS Melodic
+[우분투 설치 방법](https://lee-jaewon.github.io/categories/Ubuntu/) 및 [ROS 설치 방법](https://lee-jaewon.github.io/categories/ROS/)<br>
+<br>
 
-## Ubuntu와 ROS 기본학습
+### Server & Client
+[Server & Client 학습](https://github.com/Lee-JaeWon/ROS_tutorial/tree/main/src/seminar_3) : turtlesimnode에 client가 숫자를 전달하면 이동하고 그 좌표를 turtle1/pose를 통해 subscribe 해오는 코드<br>
+
+
+<br><br>
+
+---
+## Ubuntu와 ROS 기본학습(Old Version)
 - Ubuntu 14.04와 ROS indigo 설치 및 개발환경 설정
 - 추후 실제 개발과 다른 버전의 ROS 사용을 위한 기본 학습  
 - Oracle VM VirtualBox 사용  
